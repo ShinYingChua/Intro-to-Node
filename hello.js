@@ -34,6 +34,6 @@ http.createServer(function (req,res) {
 	/*res.end('<h1>Hello World!</h1>');*/
 	})
 
-}).listen(5000);
+}).listen(PORT);
 
 console.log('Server listening on Port 8080....');
