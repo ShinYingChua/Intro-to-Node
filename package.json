@@ -4,6 +4,7 @@
   "description": "Simple Web App",
   "main": "\u001b[D\u001b[D\u001b[B\u001b[C\u001b[A\u001b[Dhello.js\u001b[C",
   "scripts": {
+    "start": "node hello.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
